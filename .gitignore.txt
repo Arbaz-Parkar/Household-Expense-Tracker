@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Excel reports & generated charts
+cleaned_expenses.xlsx
+charts/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
